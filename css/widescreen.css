@@ -1,0 +1,12 @@
+#what .what-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: left;
+  text-align: left;
+}
+
+
+#contact .map {
+  flex: 2;
+}

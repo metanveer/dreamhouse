@@ -1,0 +1,32 @@
+
+.py-1 {padding: .5rem 0}
+.py-2 {padding: .9rem 0}
+.py-3 {padding: 1.2rem 0}
+
+.p-1 {padding: .5rem}
+.p-2 {padding: .7rem}
+.p-3 {padding: .9em}
+
+#navbar .navbar-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#what .container-2 {
+  display: block;
+}
+
+#who .who-image {
+  display: none;
+}
+
+#who .content {
+  text-align: center;
+}
+
+#contact {
+  display: block;
+}
